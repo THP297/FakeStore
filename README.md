@@ -1,4 +1,4 @@
-#FakeStore
+# FakeStore
 
 This is a React-based e-commerce application. The application provides a user-friendly interface for users to browse products, add them to a cart, and proceed to checkout.
 
